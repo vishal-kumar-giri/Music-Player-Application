@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#range::-webkit- {
+  height: 8px;
+  background: #0b326d;
+  border-radius: 4px;
+}
